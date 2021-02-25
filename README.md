@@ -1,3 +1,23 @@
+#説明
+このWEBシステムは、論文、課題作成を総合的に支援し、効率化することを目的にしたサイトとなっています。
+
+・キーワードによる論文、文献検索
+・APA、MLA、日本語による参考文献の自動作成
+・参考文献のデータをWORDファイルでダウンロード
+・文献ごとのメモの作成
+・論文ごとの関係性の把握
+・英語と日本語に対応
+
+#構築環境
+PHP 7.4.1
+laravel 8.24.0
+Python 3.9.1
+SQL 5.7.24
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
