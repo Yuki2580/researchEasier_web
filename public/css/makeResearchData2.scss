@@ -1,0 +1,174 @@
+@import 'settings';
+@import 'foundation';
+@include foundation-button;
+
+$button-color: white;
+$button-color-alt: white;
+
+html {
+  color: red;
+}
+
+
+@charset 'utf-8';
+
+@import 'settings';
+@import 'scss/foundation';
+@import 'scss/motion-ui';
+
+// Global styles
+@include foundation-global-styles;
+@include foundation-forms;
+@include foundation-typography;
+
+// Grids (choose one)
+@include foundation-xy-grid-classes;
+// @include foundation-grid;
+// @include foundation-flex-grid;
+
+// Generic components
+@include foundation-button;
+@include foundation-button-group;
+@include foundation-close-button;
+@include foundation-label;
+@include foundation-progress-bar;
+@include foundation-slider;
+@include foundation-switch;
+@include foundation-table;
+// Basic components
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-callout;
+@include foundation-card;
+@include foundation-dropdown;
+@include foundation-pagination;
+@include foundation-tooltip;
+
+// Containers
+@include foundation-accordion;
+@include foundation-media-object;
+@include foundation-orbit;
+@include foundation-responsive-embed;
+@include foundation-tabs;
+@include foundation-thumbnail;
+// Menu-based containers
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-accordion-menu;
+@include foundation-drilldown-menu;
+@include foundation-dropdown-menu;
+
+// Layout components
+@include foundation-off-canvas;
+@include foundation-reveal;
+@include foundation-sticky;
+@include foundation-title-bar;
+@include foundation-top-bar;
+
+// Helpers
+@include foundation-float-classes;
+@include foundation-flex-classes;
+@include foundation-visibility-classes;
+// @include foundation-prototype-classes;
+
+// Motion UI
+@include motion-ui-transitions;
+@include motion-ui-animations;
+
+$card-info-bg: $white;
+$card-info-font-color: $body-font-color;
+$card-info-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+$card-info-info-color: lighten($primary-color, 15%);
+$card-info-border-radius: $global-radius;
+
+.card-info {
+  background: $card-info-bg;
+  border: 1px solid $dark-gray;
+  box-shadow: $card-info-shadow;
+  margin: 1rem 0;
+  overflow: hidden;
+  border-radius: $card-info-border-radius;
+
+  .card-info-label {
+    border-color: transparent $dark-gray transparent transparent;
+    border-color: rgba(255,255,255,0) $dark-gray rgba(255,255,255,0) rgba(255,255,255,0);
+  }
+
+  &.primary {
+    border-color: $primary-color;
+
+    .card-info-label {
+      border-color: transparent $primary-color transparent transparent;
+      border-color: rgba(255,255,255,0) $primary-color rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+  }
+
+  &.secondary {
+    border-color: $secondary-color;
+
+    .card-info-label {
+      border-color: transparent $secondary-color transparent transparent;
+      border-color: rgba(255,255,255,0) $secondary-color rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+  }
+
+  &.info {
+    border-color: $card-info-info-color;
+
+    .card-info-label {
+      border-color: transparent $card-info-info-color transparent transparent;
+      border-color: rgba(255,255,255,0) $card-info-info-color rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+  }
+
+  &.alert {
+    border-color: $alert-color;
+
+    .card-info-label {
+      border-color: transparent $alert-color transparent transparent;
+      border-color: rgba(255,255,255,0) $alert-color rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+  }
+
+  &.success {
+    border-color: $success-color;
+
+    .card-info-label {
+      border-color: transparent $success-color transparent transparent;
+      border-color: rgba(255,255,255,0) $success-color rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+  }
+
+  &.warning {
+    border-color: $warning-color;
+
+    .card-info-label {
+      border-color: transparent $warning-color transparent transparent;
+      border-color: rgba(255,255,255,0) $warning-color rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+  }
+
+  .card-info-label {
+    border-style: solid;
+    border-width: 0 rem-calc(70) rem-calc(40) 0;
+    float: right;
+    height: 0px;
+    width: 0px;
+    transform:rotate(360deg);
+  }
+
+  .card-info-content {
+    padding: 0.5rem 1.5rem 0.875rem;
+  }
+
+  .card-info-label-text {
+    color: $white;
+    font-size: 0.75rem;
+    font-weight: bold;
+    position: relative;
+    right: rem-calc(-40);
+    top: 2px;
+    white-space: nowrap;
+    transform: rotate(30deg);
+  }
+}

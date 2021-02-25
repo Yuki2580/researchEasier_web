@@ -1,0 +1,113 @@
+
+
+  .explanation {
+    font-size: 170%;
+    margin-bottom: 10%;
+  }
+  .explanation h4 {
+    font-size: 170%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 140%;
+  }
+  .explanation .position {
+    font-size: 170%;
+  }
+  .message {
+    font-size: 130%;
+  }
+  #wholeWrapper3 {
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  #wholeWrapper {
+    width: 100%;
+  }
+  #wholeWrapper3 .searchHead {
+    font-size: 2.5rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 .SearchHead {
+    font-size: 2rem;
+    margin-bottom: 5%;
+  }
+  #wholeWrapper3 .SearchHead2 {
+    font-size: 1.9rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 input {
+    height: 7rem;
+    font-size: 2rem;
+  }
+  #head_title {
+    margin-bottom: 2%;
+    font-size: 2.5rem;
+  }
+  #inputTitle {
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+
+  #inputAuthor {
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+
+  #inputYear {
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+  .titleHere {
+    font-size: 2rem;
+  }
+
+  .authorHere {
+    font-size: 2rem;
+  }
+
+  .yearHere {
+    font-size: 2rem;
+  }
+  .titleWrapper textarea {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  .authorWrapper textarea {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  #wholeWrapper .yearWrapper input {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  #abstract {
+    height: 8rem;
+    font-size: 2rem;
+  }
+  .explainPosition {
+    font-size: 2rem;
+  }
+  .select_headA {
+    font-size: 2rem;
+  }
+  .positionWrapper select {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  .top-bar {
+    height: 9rem;
+  }
+  .top-bar li {
+    font-size: 2rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 2rem;
+  }
+  #wholeWrapper #uploadButton {
+    height: 7rem;
+    font-size: 2rem;
+  }

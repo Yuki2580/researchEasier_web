@@ -1,0 +1,94 @@
+@media screen and (max-width: 39.9375em) {
+  .no-js .top-bar {
+    display: none;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .no-js .title-bar {
+    display: none;
+  }
+}
+
+[data-sticky] {
+  width: 100%;
+}
+
+.sticky-container {
+  z-index: 5;
+}
+
+
+#wholeWrapper2 {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3%;
+  margin-bottom: 7%;
+  width: 80%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+  text-align: center;
+
+}
+
+#wholeWrapper2 .columns.row {
+  display: block;
+}
+
+#wholeWrapper2 input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper2 .yearWrapper input{
+  color: black;
+}
+
+#wholeWrapper2 input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 input::placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 .inputName input {
+  color: black;
+}
+
+.headText {
+  font-size: 1.5rem;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  font-weight: bold;
+}
+
+.contentWrapper {
+  margin-left: 3%;
+}
+
+.nextPage {
+  font-size: 1.3rem;
+  margin-left: 4%;
+  margin-bottom: 5%;
+}
+
+.message {
+  margin-bottom: 5%;
+  margin-left: 4%;
+  font-weight: bold;
+}
+
+.mainWrapper {
+  padding-bottom: 3%;
+}
+
+.nextPage2 {
+  margin-top: 3%;
+  font-size: 1.3rem;
+}

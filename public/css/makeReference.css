@@ -1,0 +1,94 @@
+
+@media screen and (min-width:1025px) {
+  .top-bar {
+    height: 3rem;
+  }
+  .top-bar li {
+    font-size: 1.5rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 1.5rem;
+  }
+  #AllWrap #explainWrapper .explanation {
+    margin-left: 5%;
+    margin-bottom: 5%;
+  }
+}
+
+@media screen and (min-width:640px) and (max-width: 1024px){
+}
+
+@media screen and (max-width:599px){
+
+}
+
+.top-bar a:hover {
+  background-color: black;
+  color: white;
+}
+
+#wholeWrapper {
+  margin-left: 2%;
+  margin-top: 2%;
+  max-width: 600px;
+  width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
+
+#wholeWrapper .columns.row {
+  display: block;
+}
+
+#wholeWrapper input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper input::placeholder {
+  color: #8a8a8a;
+}
+
+.hero-full-screen .top-content-section {
+  width: 100%;
+}
+
+.hero-full-screen .top-bar {
+  background: transparent;
+}
+
+.hero-full-screen .top-bar .menu {
+  background: transparent;
+}
+
+.hero-full-screen .top-bar .menu-text {
+  color: #fefefe;
+}
+
+.hero-full-screen .top-bar .menu li {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.hero-full-screen .top-bar .menu a {
+  color: #fefefe;
+  font-weight: bold;
+}
+
+#explainWrapper div {
+  margin-bottom: 2%;
+}

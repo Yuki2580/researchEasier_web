@@ -1,0 +1,666 @@
+2 Experimental and
+
+quasi-experimental designs
+
+Objectives
+
+At the end of this chapter you will be able to:
+
+(cid:1)
+compare and contrast experimental and quasi-experimental designs;
+(cid:1) explain the purpose of experimental and quasi-experimental designs;
+(cid:1) discuss the advantages and disadvantages of experimental and quasi-
+
+(cid:1)
+
+experimental designs; and
+identify when experimental and quasi-experimental designs might be suitable
+for use in management research.
+
+CONTENTS
+
+Introduction
+The main types of experiments
+Commonly used experimental designs
+Conclusion
+References
+Chapter review questions
+Appendix: A checklist of questions for designing an experimental
+
+procedure
+
+Introduction
+
+In order to conduct an experiment to assess the effects of an inde-
+pendent variable on an outcome, the researcher needs to decide on
+
+33
+34
+37
+42
+42
+43
+
+44
+
+33
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+34
+
+Part 2 Research designs
+
+an appropriate experimental design. Cook and Campbell (1983) and
+Shadish, Cook, and Campbell (2002) have provided very comprehen-
+sive overviews of the various types of experimental designs. The follow-
+ing is a discussion of the main types and applications of experimental
+designs.
+
+The main types of experiments
+
+Research designs typically vary in terms of the extent of researcher
+interference (Sekaran, 1992). In some research designs (e.g., correla-
+tional field studies  see Chapter 3), researchers may minimally inter-
+fere and study events as they normally arise. Researchers may also
+interfere and manipulate and/or control and/or simulate the situation.
+Experimental designs are characterised by manipulation or control
+over the independent variable (often called a treatment or interven-
+tion).
+
+The study setting can also vary from contrived (i.e., artificial) to non-
+contrived (i.e., natural environments where events normally occur).
+Contrived settings are usually those of laboratory experimental studies
+or sometimes field studies, where conditions are imposed by conduct-
+ing experiments. Laboratory experiments are conducted away from
+where the phenomenon is usually found and the researcher attempts
+to control as many extraneous influences as he or she can in that setting.
+In other words, contrived settings offer the highest level of
+researcher interference. Non-contrived settings are typically field stud-
+ies where variables are allowed to operate as they would normally, such
+as correlational field studies, and case studies conducted in organisa-
+tions. In field experiments, there is researcher interference, but this
+occurs in less contrived settings than laboratory experiments. There
+are two main types of experiments: true experiments, which are often
+conducted in the laboratory; and quasi-experiments, which are often
+done in the field or naturally occurring settings.
+
+A true experiment
+
+A true experiment can be defined as having the following characteris-
+tics:
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+Experimental and quasi-experimental designs
+
+35
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+an experimental condition or group derived by a manipulation or inter-
+vention to force it to occur (e.g., introducing a stimulus); this is the
+independent variable;
+a control group (or several groups) called controls that do not get the
+experimental treatment;
+a controlled environment where no other event can influence what is
+happening. The experimental manipulation is therefore the only
+thing that changes;
+
+(cid:1)
+
+(cid:1) random allocation of participants to experimental and control groups
+so that an individual could just as likely end up in the experimental
+group as the control group; and
+the dependent variable is measured after the introduction of the
+treatment, in both the experimental/treatment group and the con-
+trol group, to see if there was a change in the experimental group
+but not in the control group.
+
+The central features of a true experimental design therefore are
+manipulation and control (Sekaran, 1992). An essential element of true
+experiments is randomisation of cases to experimental and control
+groups. A thoughtfully designed experiment provides the required
+controls that enable the researcher to reject alternative explanations,
+thereby allowing him or her to draw strong causal inferences (Raulin
+& Graziano, 1995). True experiments are strong on internal validity;
+that is, the ability to make causal inferences. They do so by control-
+ling all the variables, other than the cause, then manipulating the
+cause to introduce it as a treatment, and then comparing the effect
+on the dependent variable (the effect). Creswell (2003) has provided
+a useful checklist of questions for designing an experimental proce-
+dure. This checklist is presented in the appendix at the end of this
+chapter.
+
+Quasi-experimental designs
+
+Quasi-experimental designs also provide the researcher with the
+opportunity to assess the effects of interventions or manipulations.
+However, it is important to keep in mind that they are not true
+experiments. The reason quasi-experimental designs are not true
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+36
+
+Part 2 Research designs
+
+experiments relates to the fact that they do not occur in completely
+controlled environments. Although the researcher may manipulate the
+independent variable (the experimental treatment), there are likely to
+be other changes occurring that are not being manipulated specifi-
+cally for the experiment, which may be causing the effect. Therefore,
+manipulation may occur in quasi-experiments (e.g., experiments in
+organisations); however, the level of control is weaker than in a true
+experiment.
+
+Unlike a true experiment, there is no random allocation of par-
+ticipants to groups (experimental vs. control) in quasi-experimental
+studies; however, people fall into those groups for other reasons. For
+example, training may be staggered over time and some groups are
+trained first, providing the later groups as natural control groups whose
+pre- and post-test measures can be taken at the same time as the exper-
+imental groups.
+
+Quasi-experiments have the essential form of experiments, includ-
+ing a causal hypothesis and some type of manipulation to compare two
+(or more) conditions (Graziano & Raulin, 1993). When conducting
+experiments in organisations, participants often cannot be randomly
+assigned to experimental and control conditions. Studies following
+this design do control for some confounding variables, but do not
+have as high a level of control as true experiments. As a result, causal
+inferences can be drawn from quasi-experiments, but not with the
+same degree of confidence as with true experimental designs. Quasi-
+experiments are, however, useful when true experiments cannot be
+carried out, on practical or ethical grounds. There are many vari-
+ants of quasi-experimental designs (e.g., non-equivalent control group
+designs, interrupted time-series designs, reversal designs, multiple
+baseline designs, single-subject designs).
+
+For example, a researcher may wish to know if democratic lead-
+ership is more effective than autocratic leadership. In this study, one
+group might use autocratic decision-making (all decisions made by
+the leader), another might use democratic decision-making (decisions
+made by the group), another laissez-faire (the leader deliberately keeps
+out of the decision-making), and another group just be told to do the
+task (a true control group). The last two groups might be considered
+controls or comparisons. If democratic decision-making works, pro-
+ductivity should be highest in that group compared to the three others.
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+Experimental and quasi-experimental designs
+
+37
+
+Table 2.1 The pre-testpost-test experimental design
+
+Group
+
+Pre-test score Treatment Post-test score
+
+Experimental
+
+O1
+
+X
+
+O2
+
+Treatment effect = (O2  O1)
+
+Commonly used experimental designs
+
+One-group pre-testpost-test design
+
+Some authors do not classify the one-group pre-testpost-test design as
+a quasi-experiment, because it does not involve an experimental group
+and a control group. Creswell (2003) referred to this design as Åepre-
+experimentalÅf, as it has no control or comparison group to compare
+with the experimental group on the dependent variable. In this design
+a group is given a pre-test (e.g., supervisory behaviour), is exposed to a
+treatment (e.g., training), and is then administered a post-test (super-
+visory behaviour) to measure the effects of the treatment (Sekaran,
+1992). The effects of the treatment are measured by the difference
+between the pre-test and the post-test. Table 2.1 provides an overview
+of the design. In Table 2.1, X represents the exposure of a group to
+an experimental variable, the effects of which are to be measured; O
+represents a measurement; Xs and Os in the same row are applied to
+the same persons and in different rows are applied to different persons,
+but simultaneously.
+
+The design, although commonly used, has weak interpretability
+because anything could have caused a change in the dependent vari-
+able. It may just as easily have happened to a control group if one had
+been included.
+
+Randomised pre-testpost-test experimental and
+control groups design
+
+This classical experimental design has an experimental/treatment
+group and a control group both measured at pre-test and post-test
+on the dependent variable. It is a true experiment, because there is
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+38
+
+Part 2 Research designs
+
+Table 2.2 The pre-testpost-test experimental and control
+groups design
+
+Group
+
+Pre-test score Treatment Post-test score
+
+Experimental
+Control
+
+O1
+O3
+
+X
+
+O2
+O4
+
+Treatment effect = (O2 Å| O1) Å| (O4 Å| O3)
+
+random allocation of cases to experimental and control groups. Ran-
+domisation ensures that the experimental and control groups are equiv-
+alent prior to the treatment, at least within the limits of random error.
+With randomisation, observed effects can be attributed to the manip-
+ulation of the independent variable (e.g., the effect of the intervention)
+and not to other factors that may influence the outcome, such as pre-
+existing group differences. The only difference between the two groups
+is that one received the treatment and the other did not. Measuring the
+difference between the pre-test and post-test for the two groups and
+comparing them should test if the treatment had an effect. For exam-
+ple, there should be a greater increase in the dependent variable for
+the experimental/treatment group than the control group. The ran-
+domised pre-testpost-test experimental and control groups design,
+which is presented in Table 2.2, is interpretable and allows strong causal
+inferences to be made about the effects of the independent variable.
+
+Non-equivalent pre-testpost-test control group design
+
+If there had been no random allocation to groups, the design in
+Table 2.2 becomes a non-equivalent control group design. As a quasi-
+experimental design, the non-equivalent pre-testpost-test control
+group design is not as interpretable as a study where random allocation
+had occurred. Unlike a ÅetrueÅf experimental design where random
+assignment is used, the non-equivalent control group design uses natu-
+rally occurring or intact groups. Interpretability is strengthened if the
+groups have been matched (e.g., by stratified sampling or some other
+method) on characteristics and then divided into the treatment groups
+and control groups. The key issue in a non-equivalent control group
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+Experimental and quasi-experimental designs
+
+39
+
+design is that the experimental and control groups cannot be assumed
+to be equal prior to the treatment/intervention.
+
+For example, a researcher might want to know if the introduction
+of a performance feedback program influences employee perceptions
+of feedback and if their performance improves. This is an example of
+a quasi-experiment, conducted in a large Australian government
+department by the lead author (Tharenou, 1995). In this quasi-
+experiment, the researcher randomly sampled persons who will have
+had a performance feedback program (the treatment) introduced (they
+were appraised) and other persons who did not have the program yet
+(the controls) and who did not get the performance feedback (they
+were not appraised). Measures were taken of the dependent variables
+(e.g., usefulness of feedback, satisfaction with feedback, improved per-
+formance) before and after the introduction of the program for those
+in the treatment group. As the control group did not have a program
+introduced, they were merely assessed on the variables at two intervals
+(but they had received nothing). The researcher might do this by Åestag-
+geringÅf the introduction of the program, so that the treatment group is
+first to receive the treatment and then the control group subsequently
+receives the treatment.
+
+The groups are not necessarily groups situated in one place. Individ-
+uals in a Åetreatment groupÅf can be spread over a country in a particular
+organisation, as can individuals in the Åecontrol groupÅf. The researcher
+would also usually measure the ÅeindependentÅf variables here (amount
+of feedback given, supervisor behaviour, etc.) to determine whether
+the independent variable ÅetookÅf or actually occurred. People who are
+supposed to receive performance feedback often report that they do
+not receive it. Measures also need to be taken of the individualsÅf char-
+acteristics to make sure the control and treatment groups do not differ
+on something that affects the results (e.g., job type, managerial level,
+or education level).
+
+Alternatively, a researcher might want to evaluate whether a first-
+line supervisory training and development program works, and so ran-
+domly place people in the training program and the control group
+and also measure leadership style both before and after the training
+(Tharenou & Lyndon, 1990). This would be an example of a true exper-
+iment. The supervisors are randomly allocated to the treatment and
+control groups. Measures are then taken of the dependent variable
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+40
+
+Part 2 Research designs
+
+(supervisory behaviour) for both the treatment and control groups
+before the treatment group is trained (the pre-test). Then measures
+are taken of supervisory behaviour again (the post-test) for both the
+treatment and control groups. If supervisory behaviour changes in
+the expected direction (in this case, more consideration and more
+structure), the training program can be said to have been effective.
+
+There are a number of variations that can be made to improve the
+non-equivalent pre-test and post-test experimental and control groups
+design. One way that researchers can improve this design is by using a
+double pre-test, where participants are measured on the same pre-test
+twice. (It is best when the intervals between all observations are equiva-
+lent.) The additional pre-test enables researchers to test for biases such
+as maturation. If the experimental and control groups are maturing
+at differing rates, this can be identified if there is a change from pre-
+test 1 to pre-test 2. Another way that researchers can improve on the
+pre-test and post-test experimental and control groups design is by
+using switching replications. With this variation there are two phases.
+In phase 1 of the design, both groups are pre-tested; one is then given
+the intervention/treatment, and then both are post-tested. In phase 2
+of the design, the group that was initially the control is given the inter-
+vention/treatment, while the initial experimental group serves as the
+control. One advantage associated with using switching replications
+is that the researcher can determine whether, after having received
+the intervention/treatment, the original control group Åecatches upÅf
+to the original treatment group (Shadish, Cook, & Campbell, 2002).
+As both groups receive the treatment/intervention, the potential for
+social threats (e.g., compensatory behaviour) is reduced. It is also fair
+from an ethical perspective, because all participants receive the treat-
+ment/intervention. Also, as there are two independent administrations
+of the treatment/intervention, the external validity (generalisability) is
+increased.
+
+Interrupted time-series design
+
+The interrupted time-series design involves multiple pre-tests and mul-
+tiple post-tests. The logic underlying this design is that if the treat-
+ment/intervention has had an effect, the slope or level of pre-test
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+Experimental and quasi-experimental designs
+
+41
+
+Table 2.3 Interrupted time series with a non-equivalent no-treatment
+comparison group design
+
+Pre-
+test
+score
+
+Pre-
+test
+score
+
+Pre-
+test
+score
+
+Treatment
+
+Experimental
+Control
+
+O1
+O7
+
+O2
+O8
+
+O3
+O9
+
+X
+
+Post-
+test
+score
+
+O4
+O10
+
+Post-
+test
+score
+
+O5
+O11
+
+Post-
+test
+score
+
+O6
+O12
+
+from that
+
+taken after
+
+observations will differ
+the treatment/
+intervention (Shadish, Cook, and Campbell, 2002). In other words,
+there is an ÅeinterruptionÅf, at the point of the treatment/intervention,
+to an otherwise consistent series of observations (Fife-Schaw, 2000).
+One advantage of this design is that it controls for regression towards
+the mean (an extreme score on an initial test). As there are multiple
+comparison points, the researcher can check for any effects due to
+regression towards the mean (Raulin & Graziano, 1995).
+
+The simple interrupted time-series design has a single group
+that is measured several times, prior to and after the treatment
+intervention. However, there are a number of different types of
+interrupted time-series designs; indeed, Cook and Campbell (1979)
+have listed six variants. One type, the interrupted time series with a
+non-equivalent no-treatment comparison group design, is presented in
+Table 2.3.
+
+The improvement of this design, over the simple interrupted time-
+series design, is that the inclusion of a control or comparison group
+allows the researcher to control for history effects. The reason for this
+is that any historical event that has an effect (increase or decrease) on
+the dependent variable in the experimental group would also have the
+same effect on the dependent variable in the control group. There is
+still the possibility of an historical event being a threat, but this bias
+would have to be unique to the experimental group. The researcher
+can also test for maturation effects using this design, by examining
+whether each group appeared to be changing at equivalent rates
+prior to the treatment/intervention (Shadish, Cook, and Campbell,
+2002).
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+42
+
+Part 2 Research designs
+
+Conclusion
+
+Experimental designs, whether conducted in the laboratory or the field,
+are designed to test causeeffect relationships. They are strong on inter-
+nal validity  that is, the ability to make causal inferences. They do so by
+controlling all variables, other than the cause, then manipulating the
+cause to introduce it as a treatment, and then comparing the effect on
+the dependent variable (the effect). What the researcher is comparing
+is the change in the dependent variable in the treatment group with
+the change in the dependent variable in the control group, to whom
+nothing is done. The main characteristics of experiments are control
+and manipulation. True (randomised) experiments are difficult to con-
+duct in organisational settings for both practical and ethical reasons.
+The non-equivalent pre-testpost-test control group design is an inter-
+pretable and commonly used quasi-experimental design. It allows the
+researcher to test if the treatment/intervention had an effect (e.g., a
+greater increase in the dependent variable for the experimental group
+than the control group). Modifications, such as utilising a double pre-
+test and/or switching replications, can improve this design. Studies
+using an interrupted time-series design involve several observations
+prior to, and after, the treatment/intervention. The simple interrupted
+time-series design involves only a single group, observed on multiple
+occasions before and after the intervention/treatment. However, by
+adding a non-equivalent no-treatment control group time series to this
+design, the researcher can attempt to control for historical and matu-
+rational threats.
+
+References
+
+Cook, T.D. & Campbell, D.T. (1979). Quasi-experimentation: Design and analysis for
+
+eld settings. Chicago, ILL: Rand McNally.
+
+Cook, T.D. & Campbell, D.T. (1983). The design and conduct of quasi-experiments and
+true experiments in eld settings. In M.D. Dunnette (ed.), Handbook of industrial
+and organizational psychology (pp. 223326). New York: John Wiley & Sons.
+Creswell, J.W. (2003). Research design  qualitative, quantitative and mixed method
+
+approaches (2nd ed.). Thousand Oaks, CA: Sage Publications.
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+Experimental and quasi-experimental designs
+
+43
+
+Fife-Schaw, C. (2000). Quasi-experimental designs. In G.M. Breakwell, S. Hammond,
+& C. Fife-Schaw (eds.), Research methods in psychology (2nd ed.) (pp. 7587).
+London: Sage Publications.
+
+Graziano, A.M. & Raulin, M.L. (1993). Research methods. New York: HarperCollins.
+Raulin, M.L. & Graziano, A.M. (1995). Quasi-experiments and correlational studies.
+In A.M. Coman (ed.), Psychological research methods and statistics (pp. 5877).
+London: Longman.
+
+Sekaran, U. (1992). Research methods for business: A skill-building approach. New
+
+York: John Wiley & Sons.
+
+Shadish, W.R., Cook, T.D., & Campbell, D.T.
+
+(2002). Experimental and quasi-
+experimental designs for generalized causal inference. New York: Houghton Mifin.
+Tharenou, P. (1995). The impact of a developmental performance appraisal program
+on employee perceptions in an Australian agency. Group and Organization Man-
+agement, 20, 245271.
+
+Tharenou, P. & Lyndon, T. (1990). The effect of a supervisory development program
+
+on leadership style. Journal of Business and Psychology, 4, 365373.
+
+Chapter review questions
+
+1 What is an experiment? What are the different types?
+2 What is a true experiment? What are its main characteristics?
+3 What is an experimental eld study?
+4 What is a quasi-experiment? How may it differ from a true experiment?
+5 What are the types of experimental designs commonly used in the eld?
+6 What is a one-group pre-testpost-test design?
+7 Explain why a one-group pre-testpost-test design is an uninterpretable design.
+8 What is a randomised pre-testpost-test experimental/control groups design?
+What is the non-equivalent version and how does it differ from a true experiment?
+9 Explain why a non-equivalent pre-testpost-test control group design is an inter-
+
+pretable (quasi-) experimental design.
+
+10 What variations can be made to improve the non-equivalent pre-testpost-test
+
+control group design?
+
+11 What is an interrupted time-series design? What are the advantages of the
+interrupted time series with a non-equivalent no-treatment comparison group
+design over the simple interrupted time-series design?
+
+12 What would be real-life phenomena where conducting an experiment would be
+the best way to assess if the independent variable causes the dependent vari-
+able; that is, explains the phenomenon?
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+44
+
+Part 2 Research designs
+
+Appendix: A checklist of questions for designing an
+experimental procedure
+
+1 Who are the subjects in the study? To what populations do these subjects
+
+belong?
+
+2 How were the subjects selected? Was a random selection method used?
+3 How will the subjects be randomly assigned? Will they be matched (e.g., mea-
+sured on a particular variable at pre-test and then assigned to their conditions
+on the basis of their score on that variable)? How?
+
+4 How many subjects will be in the experimental and control groups?
+5 What is the dependent variable in the study? How will it be measured? How
+
+many times will it be measured?
+
+6 What is the treatment condition(s)  that is, the independent variables or factors
+
+ in the study? How was it operationalised?
+
+7 Will variables be co-varied in the experiment? How will they be measured?
+8 What experimental research design will be used? What would a visual model of
+
+the design look like?
+
+9 What instruments will be used to measure the outcome  that is, the dependent
+variable  in the study? Why was it chosen? Who developed it? Does it have
+established validity and reliability? Has permission been sought to use it?
+
+10 What are the steps in the procedure; for example:
+
+random assignment of subjects to groups;
+
+(cid:1)
+(cid:1) collection of demographic information;
+(cid:1) administration of pre-test;
+(cid:1) administration of treatment(s); and
+(cid:1) administration of post-test?
+
+11 What are potential threats to internal and external validity for the experimental
+
+design and procedure? How will they be addressed?
+
+12 Will a pilot test of the experiment be conducted?
+13 What statistics will be used to analyse the data (e.g., descriptive and multivari-
+
+ate)?
+
+(Source: J.W. Creswell, Research design  qualitative, quantitative and mixed methods
+approaches (2nd ed.), p. 163. Copyright 2003 by Sage Publications, Inc. Reprinted
+by permission of Sage Publications, Inc.)
+
+Downloaded from https://www.cambridge.org/core. Australian Catholic University, on 25 Jul 2017 at 09:26:10, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511810527.003
+
+

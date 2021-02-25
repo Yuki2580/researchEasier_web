@@ -1,0 +1,603 @@
+#lastFirstNameWrapper #firstName{
+  color: black;
+}
+
+#lastFirstNameWrapper #middleName{
+  color: black;
+}
+
+#lastFirstNameWrapper #lastName{
+  color: black;
+}
+
+.journalWrapper #journal {
+  color: black;
+}
+
+.volumeWrapper #volume {
+  color: black;
+}
+
+.issueWrapper #issue {
+  color: black;
+}
+
+.startPageWrapper #startPage {
+  color: black;
+}
+
+.lastPageWrapper #lastPage {
+  color: black;
+}
+
+.urlWrapper #url {
+  color: black;
+}
+
+
+
+
+@media screen and (min-width:1025px) {
+  .top-bar {
+    height: 3rem;
+  }
+  .top-bar li {
+    font-size: 1.5rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 1.5rem;
+  }
+  #AllWrap #explainWrapper .explanation {
+    font-size: 1.6rem;
+    margin-left: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation {
+    font-size: 1.6rem;
+    margin-bottom: 3%;
+    margin-left: 5%;
+  }
+  .explanation h4 {
+    font-size: 110%;
+    margin-bottom: 3%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 70%;
+  }
+  #explainWrapper .explanation .position {
+    font-size: 120%;
+  }
+  #explainWrapper .explanation .position_1 {
+    font-size: 120%;
+    margin-top: 1%;
+  }
+  #explainWrapper .posiWrapper {
+    margin-top: 3%;
+    margin-bottom: 1%;
+  }
+  .explanation ul {
+    margin-top: 0%;
+  }
+  .message {
+    font-size: 70%;
+  }
+  #wholeWrapper3 #buttonWrap {
+    overflow: hidden;
+  }
+  #wholeWrapper details {
+    overflow: hidden;
+  }
+  #wholeWrapper3 #BTN {
+    width: 100%;
+  }
+  #wholeWrapper #BTN2 {
+    width: 92%;
+  }
+  #wholeWrapper #BTN3 {
+    width: 92%;
+  }
+  #AllWrap #wholeWrapper {
+    width: 38%;
+    height: 100%;
+  }
+  #wholeWrapper3 #header3 {
+    margin-bottom: 5%;
+  }
+  .chooseProjectHere {
+    margin-top: 1%;
+    margin-left: 0%;
+  }
+  .projectSelectWrap {
+    margin-top: 1%;
+    margin-left: 0%;
+  }
+  .currentProject {
+    padding-top: 1%;
+    font-size: 90%;
+  }
+  .top-bar details {
+    margin-top: 1%;
+    height: 5rem;
+  }
+  .WrapperForChoose {
+    font-size: 1rem;
+  }
+  .ccWrap {
+    background-color: #e6e6e6;
+  }
+  .currentProject {
+    text-align: center;
+    font-size: 120%;
+    height: 48px;
+    margin-top: 0.5%;
+  }
+}
+
+@media screen and (min-width:600px) and (max-width: 1024px){
+  .top-bar {
+    height: 3rem;
+  }
+  .top-bar li {
+    font-size: 1.5rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 1.5rem;
+  }
+  #AllWrap #explainWrapper .explanation {
+    font-size: 1.6rem;
+    margin-left: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation {
+    font-size: 1.6rem;
+    margin-bottom: 3%;
+    margin-left: 5%;
+  }
+  .explanation h4 {
+    font-size: 110%;
+    margin-bottom: 3%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 70%;
+  }
+  #explainWrapper .explanation .position {
+    font-size: 120%;
+  }
+  #explainWrapper .explanation .position_1 {
+    font-size: 120%;
+    margin-top: 1%;
+  }
+  #explainWrapper .posiWrapper {
+    margin-top: 3%;
+    margin-bottom: 1%;
+  }
+  .explanation ul {
+    margin-top: 0%;
+  }
+  .message {
+    font-size: 70%;
+  }
+
+  #wholeWrapper3 #buttonWrap {
+    overflow: hidden;
+  }
+  #wholeWrapper details {
+    overflow: hidden;
+  }
+  #wholeWrapper3 #BTN {
+    width: 100%;
+  }
+  #wholeWrapper #BTN2 {
+    margin-top: 3%;
+    width: 95%;
+  }
+  #wholeWrapper #BTN3 {
+    width: 95%;
+  }
+  #AllWrap #wholeWrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 100%;
+  }
+  #wholeWrapper3 #header3 {
+    margin-bottom: 5%;
+  }
+  .currentProject {
+    padding-top: 1%;
+    font-size: 90%;
+  }
+  .top-bar details {
+    margin-top: 1%;
+    height: 5rem;
+  }
+  .WrapperForChoose {
+    font-size: 1rem;
+  }
+  .ccWrap {
+    background-color: #e6e6e6;
+  }
+}
+
+
+@media screen and (max-width:599px){
+  .top-bar {
+    height: 6rem;
+  }
+  .top-bar li {
+    font-size: 100%;
+  }
+  .top-bar .dropdown-item {
+    font-size: 100%;
+  }
+  #AllWrap #explainWrapper .explanation {
+    font-size: 1.6rem;
+    margin-bottom: 5%;
+  }
+  .explanation {
+    font-size: 1.6rem;
+    margin-bottom: 3%;
+    margin-left: 2%;
+  }
+  .posiWrapper {
+    margin-left: 2%;
+  }
+
+  .explanation h4 {
+    font-size: 110%;
+    margin-bottom: 3%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 70%;
+  }
+  #explainWrapper .explanation .position {
+    font-size: 120%;
+  }
+  #explainWrapper .explanation .position_1 {
+    font-size: 120%;
+    margin-top: 1%;
+  }
+  #explainWrapper .posiWrapper {
+    margin-top: 3%;
+    margin-bottom: 1%;
+  }
+  .explanation ul {
+    margin-top: 0%;
+  }
+  .message {
+    font-size: 70%;
+  }
+  #AllWrap #wholeWrapper3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-left: 0%;
+  }
+  #wholeWrapper3 #buttonWrap {
+    overflow: hidden;
+  }
+  #wholeWrapper details {
+    overflow: hidden;
+  }
+  #wholeWrapper3 #BTN {
+    width: 100%;
+  }
+  #wholeWrapper #BTN2 {
+    margin-top: 3%;
+    width: 100%;
+    text-align: center;
+    margin-left: -5%;
+  }
+  #wholeWrapper #BTN3 {
+    width: 95%;
+  }
+  #AllWrap #wholeWrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+  }
+  #wholeWrapper3 #header3 {
+    margin-bottom: 5%;
+  }
+  .ccWrap {
+    font-size: 100%;
+    width: 50%;
+    color: black;
+    background-color: #EEEEEE;
+  }
+  #logoutButton {
+    font-size: 1.5rem;
+  }
+  .top-bar li {
+    font-size: 1.3rem;
+    list-style-type: none;
+  }
+}
+
+
+.top-bar a:hover {
+  background-color: black;
+  color: white;
+}
+
+#wholeWrapper {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding-top: 1%;
+  padding: 20px;
+  color: #fefefe;
+}
+
+#wholeWrapper .columns.row {
+  display: block;
+}
+
+#wholeWrapper textarea {
+  margin-bottom: 5%;
+}
+
+#wholeWrapper input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper input::placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding-top: 1%;
+  padding: 20px;
+  color: #fefefe;
+}
+
+#wholeWrapper2 .columns.row {
+  display: block;
+}
+
+#wholeWrapper2 textarea {
+  margin-bottom: 5%;
+}
+
+#wholeWrapper2 input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper2 input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 input::placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper3 {
+  margin-left: 20%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding-top: 1%;
+  padding: 20px;
+  color: #fefefe;
+  width: 60%;
+}
+
+#wholeWrapper3 .columns.row {
+  display: block;
+}
+
+#wholeWrapper3 textarea {
+  margin-bottom: 5%;
+}
+
+#wholeWrapper3 input {
+  font-size: 1.2rem;
+
+  color: #fefefe;
+}
+
+#wholeWrapper3 input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper3 input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper3 input::placeholder {
+  color:#8a8a8a;
+}
+
+#AllWrap2 .optionBar {
+  border: solid 2px black;
+}
+
+
+#header4 {
+  font-size: 1.5rem;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+#header2 {
+  font-size: 1.5rem;
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+
+#header3 {
+  font-size: 1.5rem;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.top-bar li{
+  list-style-type: none;
+}
+
+
+#wholeWrapper .keyword input {
+  color: black;
+}
+
+#AllWrap #wholeWrapper input #btn1 {
+  margin-top: 10%;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .no-js .top-bar {
+    display: none;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .no-js .title-bar {
+    display: none;
+  }
+}
+
+[data-sticky] {
+  width: 100%;
+}
+
+.sticky-container {
+  z-index: 5;
+}
+
+
+#inputReference {
+  font-size: 1.4rem;
+  margin-bottom: 3%;
+}
+
+#referenceHere {
+  margin-top: 1%;
+}
+
+#inputShort {
+  font-size: 1.4rem;
+  margin-bottom: 3%;
+  margin-top: 1%;
+}
+
+#inputKey {
+  font-size: 1.2rem;
+  margin-bottom: 3%;
+}
+
+.inputKeyHead {
+  margin-bottom: 2%;
+}
+
+.typeHead {
+  font-size: 1.2rem;
+  margin-bottom: 2%;
+}
+
+#select-methods {
+  margin-bottom: 5%;
+}
+
+#inputInsert {
+  font-size: 1.15rem;
+  margin-bottom: 2%;
+}
+
+#wholeWrapper #wholeWrapper2 .insertWrapper #select_headP {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 2%;
+}
+
+#select_headP {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 2%;
+}
+
+#referenceShow {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 30%;
+}
+
+
+#referenceShow ul{
+   list-style-position: inside;
+ }
+
+#referenceShow p {
+  text-indent: 1em;
+}
+
+#referenceShow  {
+   margin-top: 2%;
+   margin-bottom: 2%;
+   margin-left: 35%;
+   margin-right: auto;
+ }
+
+
+#referenceShow  {
+   width: 100vw;
+   margin-top: 4%;
+   margin-bottom: 4%;
+ }
+
+#position {
+   margin-top: 1%;
+   font-size: 1.3rem;
+ }
+
+ #wholeWrapper3 #buttonWrap {
+   overflow: hidden;
+ }
+ #wholeWrapper3 #paperAdd {
+   text-align: center;
+   margin-left: -5%;
+   margin-right: auto;
+   width: 100%;
+ }
+ #wholeWrapper form {
+   overflow: hidden;
+ }
+ #wholeWrapper #uploadButton {
+   text-align: center;
+   margin-left: -5%;
+   margin-right: auto;
+   width: 100%;
+ }
+
+#wholeWrapper .yearWrapper #year {
+  color: black;
+}

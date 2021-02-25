@@ -1,0 +1,378 @@
+#AllInput{
+  border: 2px solid black;
+  padding-left: 1%;
+  width: 23%;
+  margin-left: 2%;
+  margin-right: auto;
+}
+
+
+.titleWrapper {
+  width: 80%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  margin-right: 0;
+}
+
+.authorWrapper {
+  width: 80%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+
+}
+
+.abstractWrapper {
+  width: 80%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+
+.commentWrapper {
+  width: 80%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+
+.oneWordWrapper {
+  width: 80%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+
+#inputTitle {
+  margin-bottom: 2%;
+}
+
+#inputAuthor {
+  margin-bottom: 2%;
+}
+
+#inputAbstract {
+  margin-bottom: 2%;
+}
+
+#inputComment {
+  margin-bottom: 2%;
+}
+
+#inputOneWord {
+  margin-bottom: 2%;
+}
+
+#title {
+  /*display: inline-flex;*/
+  margin-left: 8%;
+}
+
+#comment {
+  margin-left: 8%;
+}
+
+#abstract {
+  margin-left: 8%;
+}
+
+#author {
+  margin-left: 8%;
+}
+
+#oneWord {
+  margin-left: 8%;
+}
+
+
+.countHead　{
+  display: inline-flex;
+  padding: 2%;
+  width: 80%;
+  /*margin-bottom: 5%;*/
+  /*flex-direction:row;*/
+}
+
+#countExp {
+  display: inline-flex;
+  width: auto;
+}
+#countValue {
+  display: inline-flex;
+  width: auto;
+}
+
+.updateBotton {
+  margin: 5%;
+}
+
+.mainDiv {
+  border: 2px solid black;
+
+}
+
+.titleBox {
+  border: 2px solid black;
+}
+
+.authorBox {
+  border: 2px solid black;
+}
+
+.abstractBox {
+  border: 2px solid black;
+}
+
+.commentBox {
+  border: 2px solid black;
+}
+
+.divSpace {
+  margin: 10px;
+}
+
+/***ここまでがインプット****/
+
+#mainBoxArea {
+/*  padding: 1%; */
+}
+
+#mainDiv {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main1Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main2Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main3Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main4Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main5Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main6Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main7Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main8Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main9Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main10Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+#main11Div {
+  border-radius: 20%;
+  border: 2px solid black;
+  width: 20%;
+  height: auto;
+  padding: 1.5%;
+  list-style-type: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  word-break: break-all;
+  font-size: 0.7em;
+}
+
+.headContent {
+  border: 2px solid black;
+  padding: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+/*  display: inline-flex;*/
+}
+
+.titleBox {
+  border: 2px solid black;
+  padding: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+/*  display: inline-flex;*/
+}
+
+.authorBox {
+  border: 2px solid black;
+  padding: 1%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+/*  display: inline-flex;*/
+}
+
+.abstractBox {
+  border: 2px solid black;
+  padding: 1%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+/*  display: inline-flex;*/
+}
+
+.commentBox {
+  border: 2px solid black;
+  padding: 1%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+/*  display: inline-flex;*/
+}
+
+
+#commentUpper {
+  margin-left: 2%;
+}
+
+.start {
+	background: #FFF;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 9000;
+}
+.start p {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	display: none;
+	z-index: 9999;
+	width: 280px;
+}

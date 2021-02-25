@@ -1,0 +1,684 @@
+#AllWrap {
+  margin-bottom: 0;
+}
+
+#wholeWrapper2 #yearInput {
+  color: black;
+}
+
+#wholeWrapper {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+  margin-bottom: 3%;
+
+
+  width: 70%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
+#wholeWrapper .columns.row {
+  display: block;
+}
+
+#wholeWrapper input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper input::placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper3 .SearchHead {
+  font-size: 1.2rem;
+  margin-bottom: 2%;
+}
+
+#wholeWrapper3 .searchHead {
+  font-size: 1.5rem;
+  margin-top: -1%;
+  margin-bottom: 4%;
+}
+
+#wholeWrapper3 .wrap {
+  margin-top: 3%;
+  margin-bottom: 4%;
+}
+
+#wholeWrapper3 #yearInput {
+  color: black;
+}
+
+#wholeWrapper3 #keyInput {
+  color: black;
+}
+
+#wholeWrapper3 #keyInput2 {
+  color: black;
+}
+
+
+#wholeWrapper3 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  width: 70%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
+#wholeWrapper3 .columns.row {
+  display: block;
+}
+
+#wholeWrapper3 input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper3 input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper3 input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper3 input::placeholder {
+  color: #8a8a8a;
+}
+
+@media screen and (min-width:1024px) {
+  .explanation {
+    margin-left: 5%;
+    margin-bottom: 4%;
+  }
+}
+
+#explainWrapper h3 {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+#explainWrapper {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+ul {
+  margin-top: 3em;
+}
+
+
+#select_headA {
+}
+
+#inputThere label {
+  color: white;
+  font-size: 1.3rem;
+}
+
+#head_title {
+  margin-top: 4%;
+}
+
+.botton_wrapper {
+  margin-top: 5%;
+}
+
+.botton_show2 {
+  margin-top: 4%;
+  margin-bottom: 2%;
+}
+
+#selectWrapper1 {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#head_title {
+  margin-top: 0%;
+}
+
+#inputWrapper {
+  margin-top: -5em;
+  margin-bottom: 5em;
+  width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .no-js .top-bar {
+    display: none;
+  }
+}
+
+@media print, screen and (min-width: 40em) {
+  .no-js .title-bar {
+    display: none;
+  }
+}
+
+[data-sticky] {
+  width: 100%;
+}
+
+.sticky-container {
+  z-index: 5;
+}
+
+
+#wholeWrapper2 {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3%;
+  margin-bottom: 7%;
+  width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+  text-align: center;
+
+}
+
+#wholeWrapper2 .columns.row {
+  display: block;
+}
+
+#wholeWrapper2 input {
+  font-size: 1.2rem;
+  color: #fefefe;
+}
+
+#wholeWrapper2 .yearWrapper input{
+  color: black;
+}
+
+#wholeWrapper2 input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 input::-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+#wholeWrapper2 input::placeholder {
+  color: #8a8a8a;
+}
+
+#inputTitle {
+  text-align: left;
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+#inputAuthor {
+  text-align: left;
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+#inputYear {
+  text-align: left;
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+#wholeWrapper .yearWrapper input {
+  color: black;
+}
+
+#inputAbstract {
+  text-align: left;
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+#inputComment {
+  text-align: left;
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+#inputOneWord {
+  text-align: left;
+  margin-bottom: 2%;
+  font-size: 1.3rem;
+}
+
+.titleHere {
+  font-size: 1.3rem;
+}
+
+.authorHere {
+  font-size: 1.3rem;
+}
+
+.yearHere {
+  font-size: 1.3rem;
+}
+
+.select_headA {
+  text-align: left;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.abstractHere {
+  font-size: 1.3rem;
+}
+
+.explainPosition {
+  font-size: 1.3rem;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#position {
+  margin-top: 3%;
+  font-size: 1.3rem;
+}
+#explainWrapper h4 {
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+
+
+@media screen and (min-width:901px) {
+  .explanation {
+    font-size: 1.6rem;
+    margin-bottom: 10%;
+    margin-left: 5%;
+  }
+  .explanation h4 {
+    font-size: 120%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 80%;
+  }
+  .explanation .position {
+    font-size: 120%;
+  }
+  .message {
+    font-size: 70%;
+  }
+  #wholeWrapper3 {
+    width: 70%;
+    margin-bottom: 10%;
+  }
+  #wholeWrapper {
+    width: 70%;
+    font-size: 2rem;
+  }
+  #wholeWrapper #head_title {
+    font-size: 2rem;
+  }
+  #wholeWrapper3 .searchHead {
+    font-size: 1.5rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 .SearchHead {
+    font-size: 1.3rem;
+    margin-bottom: 5%;
+  }
+  #wholeWrapper3 .SearchHead2 {
+    font-size: 1.3rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 input {
+    height: 4rem;
+    font-size: 1.3rem;
+  }
+  #head_title {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+  #inputTitle {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+
+  #inputAuthor {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+
+  #inputYear {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+  .titleHere {
+    font-size: 1.3rem;
+  }
+
+  .authorHere {
+    font-size: 1.3rem;
+  }
+
+  .yearHere {
+    font-size: 1.3rem;
+  }
+  .titleWrapper textarea {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  .authorWrapper textarea {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  #wholeWrapper .yearWrapper input {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  .positionWrapper #abstract {
+    height: 5rem;
+    font-size: 1.5rem;
+  }
+  .explainPosition {
+    font-size: 1.5rem;
+  }
+  .select_headA {
+    font-size: 1.3rem;
+  }
+  .positionWrapper select {
+    height: 2.5rem;
+    font-size: 1.3rem;
+  }
+  .top-bar {
+    height: 3.5rem;
+  }
+  .top-bar li {
+    font-size: 1.5rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 1.5rem;
+  }
+  #wholeWrapper #uploadButton {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  #wholeWrapper3 .chooseForAdd {
+    font-size: 1.4rem;
+    margin-bottom: 5%;
+  }
+  #wholeWrapper3 .addInput {
+    margin-bottom: 4%;
+  }
+  .paperData {
+    margin-left: 15%;
+  }
+}
+
+
+
+
+
+
+@media screen and (min-width:600px) and (max-width: 900px){
+  .explanation {
+    font-size: 1.6rem;
+    margin-bottom: 10%;
+    margin-left: 5%;
+  }
+  .explanation h4 {
+    font-size: 120%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 80%;
+  }
+  .explanation .position {
+    font-size: 120%;
+  }
+  .message {
+    font-size: 70%;
+  }
+  #wholeWrapper3 {
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  #wholeWrapper {
+    width: 100%;
+    font-size: 2rem;
+  }
+  #wholeWrapper #head_title {
+    font-size: 2rem;
+  }
+  #wholeWrapper3 .searchHead {
+    font-size: 1.5rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 .SearchHead {
+    font-size: 1.3rem;
+    margin-bottom: 5%;
+  }
+  #wholeWrapper3 .SearchHead2 {
+    font-size: 1.3rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 input {
+    height: 4rem;
+    font-size: 1.3rem;
+  }
+  #head_title {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+  #inputTitle {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+
+  #inputAuthor {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+
+  #inputYear {
+    margin-bottom: 2%;
+    font-size: 1.5rem;
+  }
+  .titleHere {
+    font-size: 1.3rem;
+  }
+
+  .authorHere {
+    font-size: 1.3rem;
+  }
+
+  .yearHere {
+    font-size: 1.3rem;
+  }
+  .titleWrapper textarea {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  .authorWrapper textarea {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  #wholeWrapper .yearWrapper input {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  .positionWrapper #abstract {
+    height: 5rem;
+    font-size: 1.5rem;
+  }
+  .explainPosition {
+    font-size: 1.5rem;
+  }
+  .select_headA {
+    font-size: 1.3rem;
+  }
+  .positionWrapper select {
+    height: 2.5rem;
+    font-size: 1.3rem;
+  }
+  .top-bar {
+    height: 3.5rem;
+  }
+  .top-bar li {
+    font-size: 1.5rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 1.5rem;
+  }
+  #wholeWrapper #uploadButton {
+    height: 5rem;
+    font-size: 1.3rem;
+  }
+  #wholeWrapper3 .chooseForAdd {
+    font-size: 1.4rem;
+    margin-bottom: 5%;
+  }
+  #wholeWrapper3 .addInput {
+    margin-bottom: 4%;
+  }
+  .paperData {
+    margin-left: 5%;
+    font-size: 1.5rem;
+  }
+}
+
+
+
+
+
+
+@media screen and (max-width:599px){
+  .explanation {
+    font-size: 170%;
+    margin-bottom: 10%;
+  }
+  .explanation h4 {
+    font-size: 170%;
+  }
+  #explainWrapper h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .explanation li {
+    font-size: 140%;
+  }
+  .explanation .position {
+    font-size: 170%;
+  }
+  .message {
+    font-size: 130%;
+  }
+  #wholeWrapper3 {
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  #wholeWrapper {
+    width: 100%;
+  }
+  #wholeWrapper3 .searchHead {
+    font-size: 2.5rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 .SearchHead {
+    font-size: 2rem;
+    margin-bottom: 5%;
+  }
+  #wholeWrapper3 .SearchHead2 {
+    font-size: 1.9rem;
+    margin-bottom: 2%;
+  }
+  #wholeWrapper3 input {
+    height: 7rem;
+    font-size: 2rem;
+  }
+  #head_title {
+    margin-bottom: 2%;
+    font-size: 2.5rem;
+  }
+  #inputTitle {
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+
+  #inputAuthor {
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+
+  #inputYear {
+    margin-bottom: 2%;
+    font-size: 2rem;
+  }
+  .titleHere {
+    font-size: 2rem;
+  }
+
+  .authorHere {
+    font-size: 2rem;
+  }
+
+  .yearHere {
+    font-size: 2rem;
+  }
+  .titleWrapper textarea {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  .authorWrapper textarea {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  #wholeWrapper .yearWrapper input {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  #abstract {
+    height: 8rem;
+    font-size: 2rem;
+  }
+  .explainPosition {
+    font-size: 2rem;
+  }
+  .select_headA {
+    font-size: 2rem;
+  }
+  .positionWrapper select {
+    height: 5rem;
+    font-size: 2rem;
+  }
+  .top-bar {
+    height: 9rem;
+  }
+  .top-bar li {
+    font-size: 2rem;
+  }
+  .top-bar .dropdown-item {
+    font-size: 2rem;
+  }
+  #wholeWrapper #uploadButton {
+    height: 7rem;
+    font-size: 2rem;
+  }
+}

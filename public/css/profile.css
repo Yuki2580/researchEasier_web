@@ -1,0 +1,58 @@
+body {
+  font-family: 'MS Sans Serif';
+  font-size: 18px;
+}
+
+#wholeWrapper {
+  margin-bottom: 5%;
+}
+
+#rightSide {
+}
+
+.explainWrapper {
+  margin-left: 3%;
+  margin-top: 4%;
+}
+
+.explainWrapper h1 {
+  margin-top: 2%;
+  margin-bottom: 7%;
+  font-family: "Times New Roman";
+}
+
+.picWrapper {
+  margin-left: 8%;
+  margin-top: 6%;
+}
+
+.reason {
+  text-align: center;
+  margin-bottom: 7%;
+}
+
+.reason h3 {
+  margin-top: 5%;
+  margin-bottom: 7%;
+  font-family: 'MS Sans Serif';
+}
+
+.reasonMain p {
+  margin-bottom: 2%;
+}
+
+
+.message {
+  text-align: center;
+  margin-bottom: 7%;
+}
+
+.message h3 {
+  margin-top: 5%;
+  margin-bottom: 7%;
+  font-family: 'MS Sans Serif';
+}
+
+.message p {
+  margin-bottom: 2%;
+}

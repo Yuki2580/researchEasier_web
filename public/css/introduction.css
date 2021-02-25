@@ -1,0 +1,237 @@
+.contentWrapper {
+  margin-top: 4%;
+  margin-left: 3%;
+  margin-right: auto;
+}
+
+.messageWrapper {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.headText {
+  font-size: 1.5rem;
+  margin-bottom: 3%;
+  margin-top: 2%;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 1.3rem;
+}
+
+.makeProject {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.makeProject img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.search1 {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.searchHead {
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+.search1 img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.search2 {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.search2 img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.search3 {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.search3 img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.addManual {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.addManual img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.manualBook {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.manualBook img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.manualJournal {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.manualJournal img{
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.memo {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.memo img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.projectData {
+  border-bottom: 2px solid black;
+  margin-bottom: 3%;
+  padding-bottom: 3%;
+}
+
+.projectData img {
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.manualHead {
+  margin-top: 8%;
+  font-size: 2rem;
+}
+
+.nextPage {
+  font-size: 1.3rem;
+  margin-top: 2%;
+  margin-bottom: 10%;
+  margin-left: 4%;
+}
+
+.nextPage2 {
+  font-size: 1.3rem;
+  margin-top: 2%;
+  margin-bottom: 6%;
+}
+
+.mainWrapper {
+  margin-bottom: 6%;
+}
+
+/* パソコンで見たときは"pc"のclassがついた画像が表示される */
+.makeProject_pic { display: block !important; }
+.makeProject_pic_sm { display: none !important; }
+
+.expla_pic { display: block !important; }
+.expla_pic_sm { display: none !important; }
+
+.search_pic { display: block !important; }
+.search_pic_sm { display: none !important; }
+
+.addData_pic { display: block !important; }
+.addData_pic_sm { display: none !important; }
+
+.manual_pic { display: block !important; }
+.manual_pic_sm { display: none !important; }
+
+.manual_j_pic { display: block !important; }
+.manual_j_pic_sm { display: none !important; }
+
+.manual_b_pic { display: block !important; }
+.manual_b_pic_sm { display: none !important; }
+
+.memo_pic { display: block !important; }
+.memo_pic_sm { display: none !important; }
+
+.show_pic { display: block !important; }
+.show_pic_sm { display: none !important; }
+
+/* スマートフォンで見たときは"sp"のclassがついた画像が表示される */
+@media only screen and (max-width: 750px) {
+    .makeProject_pic { 
+      display: none !important; 
+    }
+    .makeProject_pic_sm { 
+      display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .expla_pic { display: none !important; }
+    .expla_pic_sm {
+      display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .search_pic { display: none !important; }
+    .search_pic_sm { 
+      display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .addData_pic { display: none !important; }
+    .addData_pic_sm { display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .manual_pic { display: none !important; }
+    .manual_pic_sm { display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .manual_j_pic { display: none !important; }
+    .manual_j_pic_sm { display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .manual_b_pic { display: none !important; }
+    .manual_b_pic_sm { display: block !important; 
+      height: 300px;
+      width: 750px;
+    }
+
+    .memo_pic { display: none !important; }
+    .memo_pic_sm { display: block !important; height: 300px;
+      width: 750px;
+    }
+
+    .show_pic { display: none !important; }
+    .show_pic_sm { display: block !important; height: 300px;
+      width: 750px;
+    }
+      
+  }
